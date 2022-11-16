@@ -1,3 +1,5 @@
+##Connect 4 example code
+
 import pygame
 import sys
 from pygame.locals import *
